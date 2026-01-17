@@ -56,7 +56,7 @@ class _LoadingScreenState extends State<LoadingScreen> with TickerProviderStateM
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 // Zooming Logo
-                ScaleTransition(scale: _logoScale, child: Image.asset('assets/logo.png', width: 200)),
+                ScaleTransition(scale: _logoScale, child: Image.asset('assets/loading-logo.png', width: 200)),
                 SizedBox(height: 50),
                 
                 // Rotating Wheel
