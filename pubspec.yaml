@@ -80,6 +80,9 @@ flutter:
     - assets/loading-logo.png
     - assets/wheel.png
     - assets/login-bg.jpg
+    - assets/dash-bg1.jpg
+    - assets/dash-bg2.jpg
+    - assets/dash-bg3.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
